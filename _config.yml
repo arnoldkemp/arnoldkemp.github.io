@@ -1,2 +1,3 @@
 name: The GLOG
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
