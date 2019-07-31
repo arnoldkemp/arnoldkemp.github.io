@@ -1,9 +1,8 @@
-<h1>GLOG Index</h1>
+# GLOG Index
 
-<p>This is where I'll put the different sections of the GLOG.</p>
+This is where I'll put the different sections of the GLOG.
 
-<h2>Intro</h2>
-<ul>
- <li>Philosophy</li>
- <li>Assumptions</li>
-</ul>
+## Introduction
+
+- Philsophy
+- Assumptions
