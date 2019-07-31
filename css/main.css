@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Palatino', 'Garamond', 'Bookman', 'Times-New-Roman', 'Serif';
 }
 nav p, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
