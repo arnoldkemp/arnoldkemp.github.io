@@ -21,12 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Corben', 'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 h2 {
-    font-family:'Bookman Antiqua', "Serif";
-    font-size: 2.4em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 2.4em;
 }
 p {
     font-size: 1em;
