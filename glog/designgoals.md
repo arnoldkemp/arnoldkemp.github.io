@@ -1,4 +1,4 @@
-# Philosophy
+# Design Goals
 
 The GLOG was designed to follow a specific set of principles.  None are absolute, and they all compete with each other for consideration.  Still, they serve as both a launch pad and arbitrator.
 
@@ -6,7 +6,9 @@ There are two halves to this, because there are two halves to this game.  The ru
 
 (Remember that the book is not the game.)
 
-## Ruleset Philosophy
+## The System
+
+These are the principles that I abide by when writing rules for the GLOG.  If you are hacking the GLOG, you should, too.
 
 ### 1. Hackable
 
@@ -42,7 +44,9 @@ The rules should never deviate too far from the oldest editions.  For better or 
 
 Remember that maintaining compatibility is not the same thing as feeding the sacred cows.
 
-## Gameplay Philosophy
+## The Dungeomaster
+
+These are the principles I abide by when running the GLOG.  If you are running the GLOG or writing adventures for it, you should, too.
 
 ### 1. Give Them Interesting Choices
 
