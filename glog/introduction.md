@@ -1,3 +1,50 @@
+# Introduction and Philosophy
+
+## How to Use This Website
+
+This website is an evolving document where the most current rules are maintained.  It will be updated whenever I think I have a better idea about how things should be done.
+
+All RPG rulebooks have multiple goals:
+
+1. As a **reference** for the rules, structured to be easily searchable and written to be unambiguous.
+2. As a **tutorial**, structured to guide a new reader and written to be accessible.
+3. As an **inspiration** that evokes the fantasy that they want to emulate, and gets people excited.
+
+While including optional and variant rules is nothing new, the GLOG is slightly unique in the fact that it expects its DMs to chop it up and build their own, probably incoporporating homebrew rules and pieces of other systems.  So the GLOG has one additional goal:
+
+4. As **an introduction to RPG design considerations**, so that DMs can learn how rules should be tweaked, incorporated, and discarded.
+
+So while the primary text of each section will be the simplest version of the best rules (IMO), I will also include collapsed sections for variants and discussion.
+
+A group that just wants to play the Orthodox GLOG will never have to open these.  
+
+A group that has no intention of ever playing the GLOG may still find these discussions to be the most useful part of this site.  Hopefully they'll inspire revisions of the reader's own homebrew, or at least provide elements worth stealing.
+
+(I'm guilty of this.  Most of the time when I read a new ruleset, I'm simply looking for elements to pillage for my home game.)
+
+While these four goals are not mutually exclusive, they are competitive.  A text cannot optimized for all of them at the same time: the best dictionary is not the best way to learn a language.
+
+<details>
+  <summary>Discussion: Rambling</summary>
+
+One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
+
+</details>
+
+Variant: Book Instead of Website
+
+I have no idea how I would accomplish this in a flesh-and-blood GLOG book, if and when such a thing ever exists.
+
+Discussion: How to Disagree
+
+As someone who is writing about RPGs on the internet, I am aware that many people are going to disagree with me.  Perhaps you started shaking your head three paragraphs back and have already tweeted about what a fool I am.
+
+You may be correct.  I am under no illusions that it will be the best system for every table.  It is *a* optimum, not *the* optimum.  Still, I hope that you find *something* useful in these pages, and when you steal it to use it in your home game, I hope you do not feel guilty.  That's what the GLOG is for, really.
+
+And if you see an error or an omission in the GLOG, go blog about it.  Put out an alternative, and tell us why it is preferable.  Give people different tools for different types of games.  The more tools we have, the more things we can build.
+
+The only goblin law is that there are no goblin laws.
+
 # Philosophy
 
 The GLOG was designed to follow a specific set of principles.  None are absolute, and they all compete with each other for consideration.  Still, they serve as both a launch pad and arbitrator.
