@@ -27,12 +27,6 @@ While these four goals are not mutually exclusive, they are competitive.  A text
 <details>
   <summary>Discussion: Rambling</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-
   ## Rambling
 
   One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
@@ -54,6 +48,20 @@ While these four goals are not mutually exclusive, they are competitive.  A text
 
   The only goblin law is that there are no goblin laws.
 
+</details>
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
 </details>
 
 # Philosophy
