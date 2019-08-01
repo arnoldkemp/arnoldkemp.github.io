@@ -1,31 +1,32 @@
-# Introduction and Philosophy
-
-## How to Use This Website
+# Introduction
 
 This website is an evolving document where the most current rules are maintained.  It will be updated whenever I think I have a better idea about how things should be done.
 
-All RPG rulebooks have multiple goals:
+I hope you like it.
+
+## Purpose
+
+All RPG rulebooks have multiple goals.  While these goals are not mutually exclusive, they are competitive.  A text cannot optimized for all of them at the same time: the best dictionary is not the best way to learn a language.
+
+The goals of an RPG ruleset:
 
 1. As a **reference** for the rules, structured to be easily searchable and written to be unambiguous.
 2. As a **tutorial**, structured to guide a new reader and written to be accessible.
 3. As an **inspiration** that evokes the fantasy that they want to emulate, and gets people excited.
 
-While including optional and variant rules is nothing new, the GLOG is slightly unique in the fact that it expects its DMs to chop it up and build their own, probably incoporporating homebrew rules and pieces of other systems.  So the GLOG has one additional goal:
+The GLOG is slightly unique in the fact that it expects its DMs to chop it up, add, subtract, and homebrew.  So the GLOG has one additional goal:
 
-4. As **an introduction to RPG design considerations**, so that DMs can learn how rules should be tweaked, incorporated, and discarded.
+4. As **empowerment** to get DMs into about game design, so that they will feel more comfortable hacking the ruleset, and be better at their homebrew once they do.
 
-So while the primary text of each section will be the simplest version of the best rules (IMO), I will also include collapsed sections for variants and discussion.
+## Sidebars
 
-A group that just wants to play the Orthodox GLOG will never have to open these.  
+The primary text of each section will be the simplest version of the best rules (IMO), I will also include collapsed sidebars for variants, discussion, and maybe even lore.
+
+A group that just wants to play the Orthodox GLOG will never have to open these sidebars.  
 
 A group that has no intention of ever playing the GLOG may still find these discussions to be the most useful part of this site.  Hopefully they'll inspire revisions of the reader's own homebrew, or at least provide elements worth stealing.
 
-(I'm guilty of this.  Most of the time when I read a new ruleset, I'm simply looking for elements to pillage for my home game.)
-
-While these four goals are not mutually exclusive, they are competitive.  A text cannot optimized for all of them at the same time: the best dictionary is not the best way to learn a language.
-
 <details>
-  <summary>Discussion: Rambling</summary>
   
   ## Rambling
 
