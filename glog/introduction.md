@@ -27,10 +27,9 @@ A group that just wants to play the Orthodox GLOG will never have to open these 
 A group that has no intention of ever playing the GLOG may still find these discussions to be the most useful part of this site.  Hopefully they'll inspire revisions of the reader's own homebrew, or at least provide elements worth stealing.
 
 <details>
-  <summary><h3>Discussion: I'm Gonna Ramble Tho</h3></summary>
-  ## Rambling
+  <summary markdown='span'>Discussion: I'm Gonna Ramble Tho</summary>
 
-  One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
+  One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the content of these sidebars, don't open them.
 
 </details>
 
@@ -49,20 +48,6 @@ A group that has no intention of ever playing the GLOG may still find these disc
 
   The only goblin law is that there are no goblin laws.
 
-</details>
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
 </details>
 
 # Philosophy
