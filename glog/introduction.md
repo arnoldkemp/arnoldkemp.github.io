@@ -30,6 +30,8 @@ A group that has no intention of ever playing the GLOG may still find these disc
   <summary markdown='span'>Discussion: I'm Gonna Ramble Tho</summary>
 
   One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the content of these sidebars, don't open them.
+  
+  Another paragraph.
 
 </details>
 
