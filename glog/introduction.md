@@ -26,27 +26,33 @@ While these four goals are not mutually exclusive, they are competitive.  A text
 
 <details>
   <summary>Discussion: Rambling</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
 
-## Rambling
+  ## Rambling
 
-One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
+  One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
 
 </details>
 
 <details>
   <summary>Discussion: How to Disagree</summary>
 
-## Disagreement
+  ## Disagreement
 
-I'm writing about RPGs on the internet: I am fully aware that you are going to disagree with me. 
+  I'm writing about RPGs on the internet: I am fully aware that you are going to disagree with me. 
 
-You may be correct.  The GLOG is not the best system for *everyone*.  It's not even the best system for *anyone* (except me).  It is *a* optimum, not *the* optimum.  
+  You may be correct.  The GLOG is not the best system for *everyone*.  It's not even the best system for *anyone* (except me).  It is *a* optimum, not *the* optimum.  
 
-So if you see an error or an omission in the GLOG, let's talk about it.  BLOG about it.  Publish something.  Put out an alternative, and explain why it is preferable.  The stuff you write will not be The Optimum either, but a specific group with a specific set of needs may find it to be exactly the sort of thing that they needed.
+  So if you see an error or an omission in the GLOG, let's talk about it.  BLOG about it.  Publish something.  Put out an alternative, and explain why it is preferable.  The stuff you write will not be The Optimum either, but a specific group with a specific set of needs may find it to be exactly the sort of thing that they needed.
 
-So even though you may dislike the GLOG, I hope you still find something worth stealing.  (That's kind of the point.)
+  So even though you may dislike the GLOG, I hope you still find something worth stealing.  (That's kind of the point.)
 
-The only goblin law is that there are no goblin laws, just goblin best practices.
+  The only goblin law is that there are no goblin laws.
 
 </details>
 
