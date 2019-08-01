@@ -27,23 +27,28 @@ While these four goals are not mutually exclusive, they are competitive.  A text
 <details>
   <summary>Discussion: Rambling</summary>
 
+## Rambling
+
 One big advantage of a website is the ability to compress large discussions into collapsed sidebars.  While I've tried to keep the rest of the document succinct, sidebars allow me to rant longer before I start feeling the guilt of inefficiency.  If you aren't interested in the concent of these sidebars, don't open them.
 
 </details>
 
-Variant: Book Instead of Website
+<details>
+  <summary>Discussion: How to Disagree</summary>
 
-I have no idea how I would accomplish this in a flesh-and-blood GLOG book, if and when such a thing ever exists.
+## Disagreement
 
-Discussion: How to Disagree
+I'm writing about RPGs on the internet: I am fully aware that you are going to disagree with me. 
 
-As someone who is writing about RPGs on the internet, I am aware that many people are going to disagree with me.  Perhaps you started shaking your head three paragraphs back and have already tweeted about what a fool I am.
+You may be correct.  The GLOG is not the best system for *everyone*.  It's not even the best system for *anyone* (except me).  It is *a* optimum, not *the* optimum.  
 
-You may be correct.  I am under no illusions that it will be the best system for every table.  It is *a* optimum, not *the* optimum.  Still, I hope that you find *something* useful in these pages, and when you steal it to use it in your home game, I hope you do not feel guilty.  That's what the GLOG is for, really.
+So if you see an error or an omission in the GLOG, let's talk about it.  BLOG about it.  Publish something.  Put out an alternative, and explain why it is preferable.  The stuff you write will not be The Optimum either, but a specific group with a specific set of needs may find it to be exactly the sort of thing that they needed.
 
-And if you see an error or an omission in the GLOG, go blog about it.  Put out an alternative, and tell us why it is preferable.  Give people different tools for different types of games.  The more tools we have, the more things we can build.
+So even though you may dislike the GLOG, I hope you still find something worth stealing.  (That's kind of the point.)
 
-The only goblin law is that there are no goblin laws.
+The only goblin law is that there are no goblin laws, just goblin best practices.
+
+</details>
 
 # Philosophy
 
