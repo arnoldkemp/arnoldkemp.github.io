@@ -1,11 +1,11 @@
 # GLOG Index
 This is where I'll put the different sections of the GLOG.
 
-## Introduction
-- Philosophy
-- Assumptions
-- The Core Mechanic
+## Introducing the GLOG
+- [Introduction](introduction.md)
+- [Design Goals](designgoals.md)
+- [The Core Mechanic](coremechanic.md)
 
 ## Character Generation
-- Generating Ability Scores
-- Generating Demographics
+- [Stats](stats.md)
+- [Demographics](demographics.md)
