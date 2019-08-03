@@ -67,13 +67,17 @@ Gruesome scars should be tailored to the injury: a character who is blinded by t
 
 For specific types of injuries, certain entries on the Mutilation Matrix are replaced.
 
+### Falling
+
+Replace entries 11-15 with: Disabled Leg.  Vacation heals 2-in-6.
+
 ### Fire and Acid
 
-Replace entries 11-20 with: Burned.  Cannot wear armor.  Vacation heals.
+Replace entries 11-20 with: Burned.  Cannot wear armor.  Vacation heals 4-in-6.
 
 ### Frostbite
 
-Replace entries 11-20 with: Frostbite.  -4 Movement.  Cannot perform delicate tasks.  Vacation heals.
+Replace entries 11-20 with: Frostbite.  -4 Movement.  Cannot perform delicate tasks.  Vacation heals 4-in-6.
 
 ### Lightning
 
