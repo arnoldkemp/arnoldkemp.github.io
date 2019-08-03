@@ -95,6 +95,14 @@ Replaced entries 11-20 with: Withering.  You permanently lose 1d4 points from a 
 
 Whenever you gain Trauma Points, roll a d20.  If you roll over your Trauma score, nothing happens.  If you roll equal-or-less than your 
 
+
+Specific Phobia.  When you see X, you must flee or hide from it.
+Dungeon Phobia.  Darkness, water, heights, claustrophobia, or being alone.
+Safety Fetish.  Need to have ally/item near you at all times, else fear.
+Paranoia.  Never sleep near allies.  Never accept food or healing from allies.
+Nightmares.  Unrestful sleep.
+Misiac.  When you see X, you must destroy it.
+
 Compulsive Gambling.  Compelled to gamble.
 Addiction.  Compelled towards substance.
 Religious Ferver.  Compelled towards religion.
@@ -102,22 +110,18 @@ Split Personality.  You become a new level 1 character.
 Amnesia.  A random class ability is locked.
 
 Hallucinations.  Never trust the descriptions that the DM gives you.
-Nightmares.  Unrestful sleep.
-Phobia (Proximal) When you see X, you must flee or hide from it.
-Phobia (Generic)
 Anxiety.  -4 Cha when making Appeals.  -4 Loyalty of all hirelings.
-
 Aggression.  Can never retreat from combat.
 Kleptomania.  Must steal ???
-Safety Fetish.  Need to have ally/item near you at all times, else fear.
 Compulsive Rituals.  Counting, Cleaning.
-Misiac.  When you see X, you must destroy it.
 
 Alien Hand Syndrome.  Hand becomes an NPC.
 Compulsive Eater.  Must eat a specific material every session.
 Sadism. Must physically harm a helpless creature every session.
 Delusions of Grandeur.  Compelled to be the leader of the party.
-Paranoia.  Never sleep near allies.  Never accept food or healing from allies.
+
+21-40 DM's choice.
+
 
 
 Breakdowns
