@@ -1,8 +1,16 @@
 # Introduction
 
-This website is an evolving document where the most current rules are maintained.  It will be updated whenever I think I have a better idea about how things should be done.
+This site is meant to serve as a central repository for the GLOG.
 
-I hope you like it.
+It will get written when I have time.  It will get updated whenever I have a better idea.  It will last until it has served its purpose.
+
+## The True GLOG
+
+The GLOG that can be written down is not the true GLOG.  
+
+The GLOG is a set of interlocking system for running an RPG, but more importantly, it is a philosophy that will hopefully teach you to to be independent of the GLOG entirely.  Throughout this site, I will try to explain the design goals that led me to choose one sub-system over another.  Hopefully, as you learn why certain goals are better served by certain rules, you will make your own design decisions, and hack together your own game.  Eventually, you will not be playing the game described on this site.  You will be playing something much better.  
+
+So that is why this is not the True GLOG.  Nothing is True.
 
 ## Purpose
 
@@ -13,10 +21,7 @@ The goals of an RPG ruleset:
 1. As a **reference** for the rules, structured to be easily searchable and written to be unambiguous.
 2. As a **tutorial**, structured to guide a new reader and written to be accessible.
 3. As an **inspiration** that evokes the fantasy that they want to emulate, and gets people excited.
-
-The GLOG is slightly unique in the fact that it expects its DMs to chop it up, add, subtract, and homebrew.  So the GLOG has one additional goal:
-
-4. As **empowerment** to get DMs into about game design, so that they will feel more comfortable hacking the ruleset, and be better at their homebrew once they do.
+4. As **empowerment** to mutate DMs into game designers, so that they will be more comfortable with--and better at--hacking their own ruleset.
 
 ## Sidebars
 
